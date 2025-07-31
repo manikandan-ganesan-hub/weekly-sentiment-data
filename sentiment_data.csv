@@ -1,11 +1,21 @@
 Stock,Score,Signal,Reason
-RELIANCE,2,Good,Q1 beat + Jio listing momentum
-ASIANPAINT,-2,Poor,Q1 miss + margin compression
-DIVISLAB,1,Neutral,Awaiting pharma export recovery
-APOLLOHOSP,3,Good,Expansion + Q1 margin beat
-BHARTIARTL,2,Good,ARPU growth + 5G capex tapering
-JINDALSTEL,2,Good,Steel demand improving + margin expansion
-HDFCAMC,1,Neutral,Stable AUM growth + high ROE
-ITC,1,Neutral,FMCG stability + yield play
-BAJFINANCE,0,Neutral,"Flat growth, but digital push strong"
-BEL,2,Good,New defense orders + govt support
+RELIANCE,2,Good,Jio Financial listing momentum + Q1 beat
+ASIANPAINT,-2,Poor,Q1 miss + margin compression + subdued commentary
+DIVISLAB,1,Neutral,Export recovery awaited + neutral Q1
+APOLLOHOSP,3,Good,Strong hospital margin expansion + capex ramp-up
+BHARTIARTL,2,Good,ARPU growth + 5G monetization underway
+JINDALSTEL,2,Good,Steel margins expanding + infra demand visibility
+HDFCAMC,0,Neutral,Flat AUM growth + increasing competition
+ITC,1,Neutral,Stable FMCG + positive seasonal demand
+BAJFINANCE,1,Neutral,"Digital origination growth, asset quality steady"
+BEL,2,Good,Defense orders + capital expenditure cycle
+KOTAKBANK,1,Neutral,"Moderate loan growth, stable CASA mix"
+HINDALCO,1,Neutral,"Copper segment stable, aluminium margin concern"
+PIIND,2,Good,Agri pipeline healthy + premium pricing power
+LT,2,Good,Order book robust + execution efficiency
+ICICIBANK,2,Good,"Loan growth strong, NIM improving, low NPAs"
+GRAPHITE,0,Neutral,"Graphite pricing volatile, exports muted"
+INGERRAND,2,Good,"Compressor demand high, US growth traction"
+SMLISUZU,1,Neutral,"Bus sales recovery, exports improving slowly"
+NATCOPHARM,0,Neutral,"API pipeline strong, regulatory clearance awaited"
+PGEL,2,Good,"Consumer appliance demand healthy, retail channel push"
